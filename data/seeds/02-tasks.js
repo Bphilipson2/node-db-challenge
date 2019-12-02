@@ -26,7 +26,7 @@ exports.seed = function(knex, Promise) {
       },
       {
         task_name: "Cleaning",
-        task_description: "Clean up any oil spills",
+        task_description: "Clean up anything else that is left",
         task_notes: "",
         project_id: 2
       }
